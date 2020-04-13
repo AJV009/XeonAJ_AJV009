@@ -1,3 +1,1 @@
-# MY RESUME AND CERTS!
-
-My RESUME and certificates!
+# MY RESUME AND CERTIFICATES!
