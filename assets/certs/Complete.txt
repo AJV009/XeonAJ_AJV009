@@ -1,7 +1,0 @@
-GCP + IOT
-Azure + IOT
-RPAs
-Cryptokernal
-ThingWorx
-IBM Watson IoT
-ARCore, ARKit, MRTK
