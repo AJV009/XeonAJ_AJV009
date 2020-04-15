@@ -77,3 +77,11 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - NVIDIA Jetson Nano was gifted from Hackster.io for an Idea submitted during an NVIDIA AI at the Edge challenge on Hackster.io.
 - Won $35 & $200 gift cards through a lucky draw for pinging 15 consecutive days from Azure Sphere & AVNET Azure Sphere Dev board was acquired through a giveaway by Element14.
 
+# Key Competencies
+- Hardware & Software Troubleshooting
+- Different OS and Software Installation
+- Using basic CMD/PowerShell and Linux Terminal commands.
+- Drive Data recovery and partition management 
+- Ideation with research and greed to learn more about Technology.
+
+
