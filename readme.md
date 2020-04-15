@@ -84,4 +84,11 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - Drive Data recovery and partition management 
 - Ideation with research and greed to learn more about Technology.
 
+# Projects and stuff I build
+- **PHP Sentiment Analysis** using Rubix/ML library. (2020)
+- **Face Emotion detection** – Uses Azure Cognitive services – Face API. (2019)
+- **Library Management System** – A PHP project (2019)
+- **ΞDevNetHost** – A simple app for port forwarding & hosting, Uses XAMPP, Ngrok & VB.net (2018)
+- **µPy** – Program for juniors created in VB.net. Includes an online Python IDE and tutorials. (2018)
+- **Website (wowos.ddns.net)** XAMPP, Bitnami WordPress Stack, OpenSSL, Ngrok & Dynu (2017
 
