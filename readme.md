@@ -65,4 +65,14 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - Julia Academy: Introduction to Julia
 - Julia Academy: Introduction to ML
 
+# Tech Skills
+**Programming Languages** – C, C++, HTML, JS, PL/SQL, Python, Android (Java), PHP, Go(basics), Julia(basics).
+**Software** – VMware, Miniconda, Spyder, Jupyter Lab XAMPP, Ngrok, WSL, JetBrains IDEs and many more…
+**Operating System** – Microsoft Windows, Ubuntu (Just any Linux distro!), Apple MacOS
+**IoT** – NVIDIA Jetson Nano, Raspberry Pi 3 B+, AVNET Azure Sphere MT3620 Starter Kit
+**Cloud & IT Services** – AWS, Azure, WordPress, GitHub, Dynu.com, No-IP
 
+# Community Achievements
+- Facebook Developer Circle facilitator for Ahmednagar (a small extended community of FB DevC: Pune)
+- NVIDIA Jetson Nano was gifted from Hackster.io for an Idea submitted during an NVIDIA AI at the Edge challenge on Hackster.io.
+- Won $35 & $200 gift cards through a lucky draw for pinging 15 consecutive days from Azure Sphere & AVNET Azure Sphere Dev board was acquired through a giveaway by Element14.
