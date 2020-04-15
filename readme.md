@@ -13,7 +13,7 @@
     - xeonaj.wordpress.com
 
 # Career Objective
-## As am just getting started with AI, I expect to join a big community experimenting with AI technologies.
+### As am just getting started with AI, I expect to join a big community experimenting with AI technologies.
 
 # Education
 **Mount Saint Mary’s (MSM), Delhi**, Pre-Primary – 3rd grade
@@ -35,11 +35,10 @@ Started on April 2019 with the help of Google My Business – I help some local 
 3 months training in PHP during 5th semester of Diploma in Computer Technology
 
 ### Course completion Certificates
-#### - DataCamp: Introduction to Python, R and SQL
-#### - DataCamp: Supervised Learning with Scikit-Learn
-#### - Nvidia DLI: Getting Started with AI on Jetson Nano
-#### - Julia Academy: Introduction to Julia
-#### - Julia Academy: Introduction to ML
+- DataCamp: Introduction to Python, R and SQL
+- DataCamp: Supervised Learning with Scikit-Learn
+- Nvidia DLI: Getting Started with AI on Jetson Nano
+- Julia Academy: Introduction to Julia and ML
 
 # Tech Skills
 - **Programming Languages** – C, C++, HTML, JS, PL/SQL, Python, Android (Java), PHP, Go(basics), Julia(basics).
@@ -61,13 +60,13 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - Ideation with research and greed to learn more about Technology.
 
 # Projects and stuff I build
-- [**PHP Sentiment Analysis**](www.google.com) using Rubix/ML library. (2020)
-- **Face Emotion detection** – Uses Azure Cognitive services – Face API. (2019)
-- **Library Management System** – A PHP project (2019)
+- [**MSBTE Results Fetcher**](https://github.com/AJV009/MSBTE_Results_Fetcher) A nifty python tool to fetch and save MSBTE results into a table format. (2020)
+- [**PHP Sentiment Analysis**](https://github.com/AJV009/SentimentAnalysis_RubixML) using Rubix/ML library. (2020)
+- [**Face Emotion detection**](https://github.com/AJV009/mood_detector) – Uses Azure Cognitive services – Face API. (2019)
+- [**Library Management System**](https://github.com/AJV009/Library_Management) – A PHP project (2019)
 - **ΞDevNetHost** – A simple app for port forwarding & hosting, Uses XAMPP, Ngrok & VB.net (2018)
 - **µPy** – Program for juniors created in VB.net. Includes an online Python IDE and tutorials. (2018)
 - **Website (wowos.ddns.net)** XAMPP, Bitnami WordPress Stack, OpenSSL, Ngrok & Dynu (2017
-- 
 
 
 # Hobbies
