@@ -63,7 +63,7 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - Ideation with research and greed to learn more about Technology.
 
 # Projects
-- [**More projects coming, follow me on GitHub**](/users/follow?target=ajv009)
+- [**More projects coming, follow me on GitHub**](https://github.com/AJV009)
 - [**MSBTE Results Fetcher**](https://github.com/AJV009/MSBTE_Results_Fetcher) A nifty python tool to fetch and save MSBTE results into a table format. (2020)
 - [**PHP Sentiment Analysis**](https://github.com/AJV009/SentimentAnalysis_RubixML) using Rubix/ML library. (2020)
 - [**Face Emotion detection**](https://github.com/AJV009/mood_detector) – Uses Azure Cognitive services – Face API. (2019)
@@ -86,6 +86,20 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - State Level Workshop on Machine Learning and Big Data (MLBD-2018) organized by Dr. Vithalrao Vikhe Patil College of Engineering (20th – 21st Feb 2018)
 - Paper Presentation on Big Data at a State Level Technical Event – Technotsav-2K18 organized by Sau. Sundarbai Manik Adsul Polytechnic (16th Feb 2018)
 - Paper Presentation on Big Data at Government Polytechnic Ahmednagar (15th Oct 2017)
+
+# Publications
+- Big Data, The Emerging Strategy in Data Management (2017)
+- Wrote articles for college magazine–
+    - CLI-GUI-VUI
+    - Cloud Gaming
+    - Data Security
+    - Differentiate AI, ML & DL
+    - Photon Computing
+    - Quantum Computing
+    - Quantum Neural Network
+    - The CPU wars
+    - The evolution of mankind v2.0
+    - The era of RTX graphics
 
 
 # Hobbies
