@@ -88,8 +88,8 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - Paper Presentation on Big Data at Government Polytechnic Ahmednagar (15th Oct 2017)
 
 
-# Hobbies | Personal Skills
-----------|----------------
+Hobbies | Personal Skills
+------- | ---------------
 Exploring more about Computer | Creativity / Ideation
 Learning about new technologies | Exploratory
 - Speed Cubing
