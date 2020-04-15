@@ -5,9 +5,11 @@
 - Phone: +91 8237842347
 - Languages Known: English, Hindi, Marathi, Malayalam.
 - Online Profiles:
--- https://github.com/AJV009
--- https://in.linkedin.com/in/alphons-jaimon
--- https://www.hackster.io/alphons-jaimon
+    - https://github.com/AJV009
+    - https://in.linkedin.com/in/alphons-jaimon
+    - https://www.hackster.io/alphons-jaimon
 - Websites:
--- ajv009.github.io
--- xeonaj.wordpress.com
+    - ajv009.github.io
+    - xeonaj.wordpress.com
+
+# 
