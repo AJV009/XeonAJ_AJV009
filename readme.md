@@ -49,9 +49,9 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - **Cloud & IT Services** – AWS, Azure, WordPress, GitHub, Dynu.com, No-IP
 
 # Community Achievements
-- Facebook Developer Circle facilitator for Ahmednagar (a small extended community of FB DevC: Pune)
-- NVIDIA Jetson Nano was gifted from Hackster.io for an Idea submitted during an NVIDIA AI at the Edge challenge on Hackster.io.
-- Won $35 & $200 gift cards through a lucky draw for pinging 15 consecutive days from Azure Sphere & AVNET Azure Sphere Dev board was acquired through a giveaway by Element14.
+- **Facebook Developer Circle facilitator** for Ahmednagar (a small extended community of FB DevC: Pune)
+- **NVIDIA Jetson Nano** was gifted from Hackster.io for an Idea submitted during an NVIDIA AI at the Edge challenge on Hackster.io.
+- **Won $35 & $200 gift cards** through a lucky draw for pinging 15 consecutive days from Azure Sphere & AVNET Azure Sphere Dev board was acquired through a giveaway by Element14.
 
 # Key Competencies
 - Hardware & Software Troubleshooting
@@ -61,12 +61,14 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - Ideation with research and greed to learn more about Technology.
 
 # Projects and stuff I build
-- **PHP Sentiment Analysis** using Rubix/ML library. (2020)
+- [**PHP Sentiment Analysis**](www.google.com) using Rubix/ML library. (2020)
 - **Face Emotion detection** – Uses Azure Cognitive services – Face API. (2019)
 - **Library Management System** – A PHP project (2019)
 - **ΞDevNetHost** – A simple app for port forwarding & hosting, Uses XAMPP, Ngrok & VB.net (2018)
 - **µPy** – Program for juniors created in VB.net. Includes an online Python IDE and tutorials. (2018)
 - **Website (wowos.ddns.net)** XAMPP, Bitnami WordPress Stack, OpenSSL, Ngrok & Dynu (2017
+- 
+
 
 # Hobbies
 - Exploring more about Computer
