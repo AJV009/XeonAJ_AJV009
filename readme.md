@@ -79,8 +79,7 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - Drive Data recovery and partition management 
 - Ideation with research and greed to learn more about Technology.
 
-# Projects
-- [**More projects coming, follow me on GitHub**](https://github.com/AJV009)
+# Projects [(**More projects coming, follow me on GitHub**)](https://github.com/AJV009)
 - [**MSBTE Results Fetcher**](https://github.com/AJV009/MSBTE_Results_Fetcher) A nifty python tool to fetch and save MSBTE results into a table format. (2020)
 - [**PHP Sentiment Analysis**](https://github.com/AJV009/SentimentAnalysis_RubixML) using Rubix/ML library. (2020)
 - [**Face Emotion detection**](https://github.com/AJV009/mood_detector) – Uses Azure Cognitive services – Face API. (2019)
