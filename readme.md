@@ -12,6 +12,25 @@
     - ajv009.github.io
     - xeonaj.wordpress.com
 
+# Hobbies
+- Exploring more about Computer
+- Learning about new technologies
+- Speed Cubing
+- Creative Crafts
+- Cycling
+- Music (Beatbox)
+- Playing Badminton
+
+# Personal Skills
+- Creativity / Ideation
+- Exploratory
+- Handling Work Pressure
+- Fluent in verbal skills
+- Strong work ethic
+- Initiative
+- Stamina
+- Self-Motivation
+
 # Career Objective
 As am just getting started with AI, I expect to join a big community experimenting with AI technologies.
 
@@ -29,3 +48,21 @@ Government Polytechnic Ahmednagar (GP Nagar) Diploma Computer Technology
 - All clear 3rd semester (2018) with 63.04%
 - All clear 4th semester (2019) with 64.00%
 - Currently doing Third Year (6th semester) Diploma in Computer Technology
+
+# Experience and Certificates
+### Running my own business XeonAJ (Computer Consultant)
+Started on April 2019 with the help of Google My Business – I help some local business’s for free with websites build with WordPress,com and connected with Google My Business.
+
+### Internship at R.B.Tech, Ahmednagar
+3 months training in PHP during 5th semester of Diploma in Computer Technology
+
+### Course completion Certificates
+- DataCamp: Introduction to Python
+- DataCamp: Introduction to R
+- DataCamp: Introduction to SQL
+- DataCamp: Supervised Learning with Scikit-Learn
+- Nvidia DLI: Getting Started with AI on Jetson Nano
+- Julia Academy: Introduction to Julia
+- Julia Academy: Introduction to ML
+
+
