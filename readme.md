@@ -40,6 +40,8 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - Nvidia DLI: Getting Started with AI on Jetson Nano
 - Julia Academy: Introduction to Julia and ML
 
+
+
 # Tech Skills
 - **Programming Languages** – C, C++, HTML, JS, PL/SQL, Python, Android (Java), PHP, Go(basics), Julia(basics).
 - **Software** – VMware, Miniconda, Spyder, Jupyter Lab XAMPP, Ngrok, WSL, JetBrains IDEs and many more…
@@ -85,9 +87,10 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - Paper Presentation on Big Data at Government Polytechnic Ahmednagar (15th Oct 2017)
 
 
-# Hobbies
-- Exploring more about Computer
-- Learning about new technologies
+# Hobbies | Personal Skills
+----------|----------------
+Exploring more about Computer | Creativity / Ideation
+Learning about new technologies | Exploratory
 - Speed Cubing
 - Creative Crafts
 - Cycling
