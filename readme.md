@@ -41,7 +41,24 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - Nvidia DLI: Getting Started with AI on Jetson Nano
 - Julia Academy: Introduction to Julia and ML
 
+# Hobbies
+- Exploring more about Computer
+- Learning about new technologies
+- Speed Cubing
+- Creative Crafts
+- Cycling
+- Music (Beatbox)
+- Playing Badminton
 
+# Personal Skills
+- Creativity / Ideation
+- Exploratory
+- Handling Work Pressure
+- Fluent in verbal skills
+- Strong work ethic
+- Initiative
+- Stamina
+- Self-Motivation
 
 # Tech Skills
 - **Programming Languages** – C, C++, HTML, JS, PL/SQL, Python, Android (Java), PHP, Go(basics), Julia(basics).
@@ -100,23 +117,3 @@ Started on April 2019 with the help of Google My Business – I help some local 
     - The CPU wars
     - The evolution of mankind v2.0
     - The era of RTX graphics
-
-
-# Hobbies
-- Exploring more about Computer
-- Learning about new technologies
-- Speed Cubing
-- Creative Crafts
-- Cycling
-- Music (Beatbox)
-- Playing Badminton
-
-# Personal Skills
-- Creativity / Ideation
-- Exploratory
-- Handling Work Pressure
-- Fluent in verbal skills
-- Strong work ethic
-- Initiative
-- Stamina
-- Self-Motivation
