@@ -59,7 +59,7 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - Drive Data recovery and partition management 
 - Ideation with research and greed to learn more about Technology.
 
-# Projects and stuff I build 
+# Projects
 - [**More projects coming, follow me on GitHub**](/users/follow?target=ajv009)
 - [**MSBTE Results Fetcher**](https://github.com/AJV009/MSBTE_Results_Fetcher) A nifty python tool to fetch and save MSBTE results into a table format. (2020)
 - [**PHP Sentiment Analysis**](https://github.com/AJV009/SentimentAnalysis_RubixML) using Rubix/ML library. (2020)
@@ -68,6 +68,8 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - **ΞDevNetHost** – A simple app for port forwarding & hosting, Uses XAMPP, Ngrok & VB.net (2018)
 - **µPy** – Program for juniors created in VB.net. Includes an online Python IDE and tutorials. (2018)
 - **Website (wowos.ddns.net)** XAMPP, Bitnami WordPress Stack, OpenSSL, Ngrok & Dynu (2017)
+
+
 
 # Hobbies
 - Exploring more about Computer
