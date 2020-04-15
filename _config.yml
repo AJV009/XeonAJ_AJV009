@@ -2,4 +2,5 @@ theme: jekyll-theme-minimal
 title: Alphons Jaimon
 # description: Nothing just testing
 show_downloads: false
-icon: "assets/2020_alphons.png"
+# icon: "assets/2020_alphons.png"
+search: true
