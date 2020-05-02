@@ -63,14 +63,15 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - Self-Motivation
 
 # Tech Skills
-- **Programming Languages** – C, C++, HTML, JS, PL/SQL, Python, Android (Flutter-Dart, Java), PHP, Go(basics), Julia(basics), R(basics).
+- **Programming Languages** – Android Flutter using Dart, Python and basics of C, C++, HTML, JS, PL/SQL, Android Java, PHP, Go, Julia, R.
 - **Software** – VMware, Miniconda, Spyder, XAMPP, Ngrok, WSL, JetBrains IDEs and many more…
 - **Operating System** – Microsoft Windows, Ubuntu (Just any Linux distro!), Apple MacOS
 - **IoT** – NVIDIA Jetson Nano, Raspberry Pi 3 B+, AVNET Azure Sphere MT3620 Starter Kit
 - **Cloud & IT Services** – AWS, Azure, WordPress, GitHub, Dynu.com, No-IP
-- **Python Packages** - Scikit-Learn, Pandas, Fastai, TensorFlow, PyTorch
+- **Python Libraries** - Scikit-Learn, Pandas, Matplotlib and basics of using Fastai, TensorFlow, PyTorch and Prohpet.
 
 # Community Achievements
+- **Contributing DevC: Pune** with news, blogs and fun on tech!
 - **Facebook Developer Circle facilitator** for Ahmednagar (a small extended community of FB DevC: Pune)
 - **NVIDIA Jetson Nano** was gifted from Hackster.io for an Idea submitted during an NVIDIA AI at the Edge challenge on Hackster.io.
 - **Won $35 & $200 gift cards** through a lucky draw for pinging 15 consecutive days from Azure Sphere & AVNET Azure Sphere Dev board was acquired through a giveaway by Element14.
@@ -83,7 +84,8 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - Ideation with research and greed to learn more about Technology.
 
 # Projects
-[(**More projects coming, follow me on GitHub**)](https://github.com/AJV009)
+[(**Baking some amazing projects, follow me on GitHub to stay alerted!**)](https://github.com/AJV009)
+- [**Document Scanner**]() A python package simply using Azure Cognitive API for text extraction. (2020)
 - [**MSBTE Results Fetcher**](https://github.com/AJV009/MSBTE_Results_Fetcher) A nifty python tool to fetch and save MSBTE results into a table format. (2020)
 - [**PHP Sentiment Analysis**](https://github.com/AJV009/SentimentAnalysis_RubixML) using Rubix/ML library. (2020)
 - [**Face Emotion detection**](https://github.com/AJV009/mood_detector) – Uses Azure Cognitive services – Face API. (2019)
@@ -96,10 +98,10 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - Data Quest 2020 - Predict Energy consumption - Kaggle In-class competition by PASC, (1st - 2nd May 2020)
 - Cisco NetAcad - ISTE National Level CODATHON-2020 (Python - Level 1 & 2 cleared) (Apr 2020)
 - Data Maestro 2020 – Predict Star / Galaxy / Neither using a precleaned SDSS DR3 dataset – Kaggle In-class competition by PICT, Pune (10th -17th Mar 2020)
-- Qualified for Zonal round competition (TechIITians) on ML & AI by Diginique techLabs with Cognizance IIT Roorkee. Final round at IIT Roorkee on 27th-29th March 2020 (28th – 29th Feb 2020)
+- Qualified for Zonal round competition (TechIITians) on ML & AI by Diginique techLabs with Cognizance IIT Roorkee. (28th – 29th Feb 2020)
 - Machine Learning & Artificial Intelligence workshop by Diginique TechLabs with Cognizance’20 IIT Roorkee at MIT-WPU Pune (28th – 29th Feb 2020)
 - Second prize for Project Competition (PHP Sentiment Analysis) at Government Polytechnic Ahmednagar. (12th Feb 2020)
-- MLH Local Hack Day sponsored by Microsoft (7th Dev 2019)
+- MLH Local Hack Day sponsored by Microsoft (Won a lot of swags!) (7th Dev 2019)
 - Artificial Intelligence Workshop by Ethical Edufabrica Pvt, Ltd. (12th - 13th Oct 2019)
 - Android App Development by The Intellect Technologies (25th - 27th Sept 2019)
 - Quiz, Blind Coding & Paper presentation at Coderbyte-2K19 organized by Government Polytechnic Ahmednagar (29th - 30th Jan 2019)
@@ -122,4 +124,4 @@ Started on April 2019 with the help of Google My Business – I help some local 
     - The CPU wars
     - The evolution of mankind v2.0
     - The era of RTX graphics
-- A Blog on solving errors with Azure Sphere setup and regulator crash (Element14)
+- A Blog on solving errors with Azure Sphere setup and regulator crash (Element14) and many small ones in Element14
