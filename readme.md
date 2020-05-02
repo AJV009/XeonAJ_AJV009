@@ -1,4 +1,5 @@
-# Resume
+### "From Innovation, To Ideation, To Development! Learning and building is my hobby!"
+
 # Personal Details
 - **DOB:** 12 – Aug - 2001
 - **Address:** Flat no-4, Sonchafa Paradise, Savedi, Ahmednagar, Maharashtra-414002.
