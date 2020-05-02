@@ -9,6 +9,7 @@
     - https://github.com/AJV009
     - https://in.linkedin.com/in/alphons-jaimon
     - https://www.hackster.io/alphons-jaimon
+    - https://www.kaggle.com/xeonaj
 - **Websites:**
     - ajv009.github.io
     - xeonaj.wordpress.com
@@ -30,7 +31,7 @@
 
 # Experience and Certificates
 ### Running a non-profit company - XeonAJ (Computer Consultant)
-Started on April 2019 with the help of Google My Business – I help some local business’s for free with websites build with WordPress,com and connected with Google My Business.
+Started on April 2019 with the help of Google My Business – I help some local business’s for free with websites build with WordPress.com and connected with Google My Business.
 
 ### Internship at R.B.Tech, Ahmednagar
 3 months training in PHP during 5th semester of Diploma in Computer Technology
@@ -40,6 +41,7 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - DataCamp: Supervised Learning with Scikit-Learn
 - Nvidia DLI: Getting Started with AI on Jetson Nano
 - Julia Academy: Introduction to Julia and ML
+- App Brewery: Introduction to Flutter Development using Dart
 
 # Hobbies
 - Exploring more about Computer
@@ -61,11 +63,12 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - Self-Motivation
 
 # Tech Skills
-- **Programming Languages** – C, C++, HTML, JS, PL/SQL, Python, Android (Java), PHP, Go(basics), Julia(basics).
-- **Software** – VMware, Miniconda, Spyder, Jupyter Lab XAMPP, Ngrok, WSL, JetBrains IDEs and many more…
+- **Programming Languages** – C, C++, HTML, JS, PL/SQL, Python, Android (Flutter-Dart, Java), PHP, Go(basics), Julia(basics), R(basics).
+- **Software** – VMware, Miniconda, Spyder, XAMPP, Ngrok, WSL, JetBrains IDEs and many more…
 - **Operating System** – Microsoft Windows, Ubuntu (Just any Linux distro!), Apple MacOS
 - **IoT** – NVIDIA Jetson Nano, Raspberry Pi 3 B+, AVNET Azure Sphere MT3620 Starter Kit
 - **Cloud & IT Services** – AWS, Azure, WordPress, GitHub, Dynu.com, No-IP
+- **Python Packages** - Scikit-Learn, Pandas, Fastai, TensorFlow, PyTorch
 
 # Community Achievements
 - **Facebook Developer Circle facilitator** for Ahmednagar (a small extended community of FB DevC: Pune)
@@ -89,7 +92,9 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - **µPy** – Program for juniors created in VB.net. Includes an online Python IDE and tutorials. (2018)
 - **Website (wowos.ddns.net)** XAMPP, Bitnami WordPress Stack, OpenSSL, Ngrok & Dynu (2017)
 
-# Other academic certificates
+# Other certificates and activities
+- Data Quest 2020 - Predict Energy consumption - Kaggle In-class competition by PASC, (1st - 2nd May 2020)
+- Cisco NetAcad - ISTE National Level CODATHON-2020 (Python - Level 1 & 2 cleared) (Apr 2020)
 - Data Maestro 2020 – Predict Star / Galaxy / Neither using a precleaned SDSS DR3 dataset – Kaggle In-class competition by PICT, Pune (10th -17th Mar 2020)
 - Qualified for Zonal round competition (TechIITians) on ML & AI by Diginique techLabs with Cognizance IIT Roorkee. Final round at IIT Roorkee on 27th-29th March 2020 (28th – 29th Feb 2020)
 - Machine Learning & Artificial Intelligence workshop by Diginique TechLabs with Cognizance’20 IIT Roorkee at MIT-WPU Pune (28th – 29th Feb 2020)
@@ -104,7 +109,7 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - Paper Presentation on Big Data at a State Level Technical Event – Technotsav-2K18 organized by Sau. Sundarbai Manik Adsul Polytechnic (16th Feb 2018)
 - Paper Presentation on Big Data at Government Polytechnic Ahmednagar (15th Oct 2017)
 
-# Publications
+# Blogs and Publications
 - Big Data, The Emerging Strategy in Data Management (2017)
 - Wrote articles for college magazine–
     - CLI-GUI-VUI
@@ -117,3 +122,4 @@ Started on April 2019 with the help of Google My Business – I help some local 
     - The CPU wars
     - The evolution of mankind v2.0
     - The era of RTX graphics
+- A Blog on solving errors with Azure Sphere setup and regulator crash (Element14)
