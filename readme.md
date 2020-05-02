@@ -1,4 +1,4 @@
-### "From Innovation, To Ideation, To Development! Learning and building is my hobby!"
+### "Limitless Ideation - From Innovation, To Development, To Actualization! Learning and building is my hobby!"
 
 # Personal Details
 - **DOB:** 12 – Aug - 2001
