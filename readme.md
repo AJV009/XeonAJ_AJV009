@@ -86,7 +86,7 @@ Started on April 2019 with the help of Google My Business – I help some local 
 
 # Projects
 [(**Baking some amazing projects, follow me on GitHub to stay alerted!**)](https://github.com/AJV009)
-- [**Document Scanner**]() A python package simply using Azure Cognitive API for text extraction. (2020)
+- [**Document Scanner**](https://github.com/gpnagar/Img2txt) A python package simply using Azure Cognitive API for text extraction. (2020)
 - [**MSBTE Results Fetcher**](https://github.com/AJV009/MSBTE_Results_Fetcher) A nifty python tool to fetch and save MSBTE results into a table format. (2020)
 - [**PHP Sentiment Analysis**](https://github.com/AJV009/SentimentAnalysis_RubixML) using Rubix/ML library. (2020)
 - [**Face Emotion detection**](https://github.com/AJV009/mood_detector) – Uses Azure Cognitive services – Face API. (2019)
