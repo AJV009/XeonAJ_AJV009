@@ -14,7 +14,7 @@
 - **Websites:**
     - ajv009.github.io
     - xeonaj.wordpress.com
-
+--
 # Career Objective
 ### As am just getting started with AI, I expect to join a big community experimenting with AI technologies.
 
