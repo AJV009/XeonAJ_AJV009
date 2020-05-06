@@ -17,7 +17,7 @@
     - xeonaj.wordpress.com
     
 # Career Objective
-### As am just getting started with AI, I expect to join a big community experimenting with AI technologies.
+### An opportunity to utilize my skills and and take my ablities in computing further. As am just getting started with AI, I expect to join a big community experimenting with AI technologies.
 
 # Education
 **Mount Saint Mary’s (MSM), Delhi**, Pre-Primary – 3rd grade
@@ -99,7 +99,7 @@ Started on April 2019 with the help of Google My Business – I help some local 
 # Other certificates and activities
 - One Week Online Faculty Development Program on Python 3 Organized by HSBPVT's Parikrama Group of Institutions, Kashti with Spoken Tutorial, IIT Bombay (29th April - 4nd May 2020)
 - Data Quest 2020 - Predict Energy consumption - Kaggle In-class competition by PASC, (1st - 2nd May 2020)
-- Cisco NetAcad - ISTE National Level CODATHON-2020 (Python - Level 1 & 2 cleared) (Apr 2020)
+- Cisco NetAcad - ISTE National Level CODATHON-2020 (Python - Level 0 & 1 cleared) (Apr 2020)
 - Data Maestro 2020 – Predict Star / Galaxy / Neither using a precleaned SDSS DR3 dataset – Kaggle In-class competition by PICT, Pune (10th -17th Mar 2020)
 - Qualified for Zonal round competition (TechIITians) on ML & AI by Diginique techLabs with Cognizance IIT Roorkee. (28th – 29th Feb 2020)
 - Machine Learning & Artificial Intelligence workshop by Diginique TechLabs with Cognizance’20 IIT Roorkee at MIT-WPU Pune (28th – 29th Feb 2020)
