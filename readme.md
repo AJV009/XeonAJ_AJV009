@@ -1,4 +1,5 @@
 ### "Limitless Ideation - From Innovation, To Development, To Actualization! Learning and building is my hobby!"
+
 ****
 # Personal Details
 - **DOB:** 12 – Aug - 2001
@@ -14,6 +15,7 @@
 - **Websites:**
     - ajv009.github.io
     - xeonaj.wordpress.com
+
 ****
 # Career Objective
 ### As am just getting started with AI, I expect to join a big community experimenting with AI technologies.
