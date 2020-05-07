@@ -51,7 +51,7 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - Speed Cubing
 - Creative Crafts
 - Cycling
-- Music (Beatbox)
+- Music*
 - Playing Badminton
 
 # Personal Skills
@@ -65,7 +65,7 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - Self-Motivation
 
 # Tech Skills
-- **Programming Languages** – Android Flutter using Dart, Python and basics of C, C++, HTML, JS, PL/SQL, Android Java, PHP, Go, Julia, R.
+- **Programming Languages** – Android Flutter using Dart, Python and basics** of C, C++, HTML, JS, PL/SQL, Android Java, PHP, Go, Julia, R.
 - **Software** – VMware, Miniconda, Spyder, XAMPP, Ngrok, WSL, JetBrains IDEs and many more…
 - **Operating System** – Microsoft Windows, Ubuntu (Just any Linux distro!), Apple MacOS
 - **IoT** – NVIDIA Jetson Nano, Raspberry Pi 3 B+, AVNET Azure Sphere MT3620 Starter Kit
@@ -128,3 +128,8 @@ Started on April 2019 with the help of Google My Business – I help some local 
     - The evolution of mankind v2.0
     - The era of RTX graphics
 - A Blog on solving errors with Azure Sphere setup and regulator crash (Element14) and many small ones in Element14
+
+
+## NOTE:
+* Music - I actually dont play any instrument, but am good at singing and listen to Brain.fm at times for high concentration.
+** Basics - By basics I mean I try to code certain stuff, read code ad possibly debug them with help from Google!
