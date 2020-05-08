@@ -88,7 +88,7 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - Speed Cubing
 - Creative Crafts
 - Cycling
-- Music*
+- Music
 - Playing Badminton
 
 # Personal Skills
