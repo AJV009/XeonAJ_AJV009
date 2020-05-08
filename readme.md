@@ -83,17 +83,14 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - **Paper Presentation on Big Data** at Government Polytechnic Ahmednagar (15th Oct 2017)
 
 # Hobbies
-- Exploring more about Computer
-- Learning about new technologies
+- Exploring more about Computer, learning about new technologies.
 - Speed Cubing, Creative Crafts, Music
 - Cycling, Playing Badminton
 
 # Personal Skills
 - Creativity / Ideation, Exploratory
-- Handling Work Pressure
-- Fluent in verbal skills
-- Strong work ethic, Initiative, Self-Motivation
-- Stamina
+- Handling Work Pressure, Fluent in verbal skills
+- Strong work ethic, Initiative, Self-Motivation, Stamina
 
 # Key Competencies
 - Hardware & Software Troubleshooting
