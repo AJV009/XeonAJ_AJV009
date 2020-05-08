@@ -116,9 +116,9 @@ Started on April 2019 with the help of Google My Business – I help some local 
 
 # Blogs and Publications
 - Big Data, The Emerging Strategy in Data Management (2017)
-- Wrote articles for college magazine–
-    - CLI-GUI-VUI
-    - Cloud Gaming
+- Wrote articles for **college magazine**–
+    **- CLI-GUI-VUI**
+    **- Cloud Gaming**
     - Data Security
     - Differentiate AI, ML & DL
     - Photon Computing
