@@ -82,17 +82,17 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - **Paper Presentation on Big Data** at a State Level Technical Event – Technotsav-2K18 organized by Sau. Sundarbai Manik Adsul Polytechnic (16th Feb 2018)
 - **Paper Presentation on Big Data** at Government Polytechnic Ahmednagar (15th Oct 2017)
 
-# Hobbies
+# Personal Hobbies, Skills and Competencies
 - Exploring more about Computer, learning about new technologies.
 - Speed Cubing, Creative Crafts, Music
 - Cycling, Playing Badminton
 
-# Personal Skills
+### Skills
 - Creativity / Ideation, Exploratory
 - Handling Work Pressure, Fluent in verbal skills
 - Strong work ethic, Initiative, Self-Motivation, Stamina
 
-# Key Competencies
+### Key Competencies
 - Hardware & Software Troubleshooting
 - Drive Data recovery and partition management 
 - Ideation with research and greed to learn more and more about Technology.
