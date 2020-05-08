@@ -2,19 +2,18 @@
 
 ****
 # Personal Details
-- **DOB:** 12 – Aug - 2001
-- **Address:** Flat no-4, Sonchafa Paradise, Savedi, Ahmednagar, Maharashtra-414002.
 - **E-mail:**  jaimonalphons@gmail.com
 - **Phone:** +91 8237842347
-- **Languages Known:** English, Hindi, Marathi, Malayalam.
+- **DOB:** 12 – Aug - 2001
 - **Online Profiles:**
     - https://github.com/AJV009
+    - https://ajv009.github.io
     - https://in.linkedin.com/in/alphons-jaimon
     - https://www.hackster.io/alphons-jaimon
     - https://www.kaggle.com/xeonaj
-- **Websites:**
-    - ajv009.github.io
-    - xeonaj.wordpress.com
+    - https://xeonaj.wordpress.com
+- **Address:** Flat no-4, Sonchafa Paradise, Savedi, Ahmednagar, Maharashtra-414002.
+- **Languages Known:** English, Hindi, Marathi, Malayalam.
     
 # Career Objective
 ### An opportunity to utilize my skills and and take my ablities in computing further. As am just getting started with AI, I expect to join a big community experimenting with AI technologies.
