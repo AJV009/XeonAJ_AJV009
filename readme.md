@@ -29,7 +29,7 @@
 - Julia Academy: Introduction to Julia and ML
 - App Brewery: Introduction to Flutter Development using Dart
 
-### Founder a non-profit company - XeonAJ (Computer Consultant)
+### Founder of a non-profit company - XeonAJ (Computer Consultant)
 Started on April 2019 with the help of Google My Business – I help some local business’s for free with websites build with WordPress.com and connected with Google My Business.
 
 # Education
