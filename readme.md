@@ -72,18 +72,18 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - Stamina
 - Self-Motivation
 
-# Community Achievements
-- **Contributing Fb DevC: Pune and Machine Learning** with news, blogs and fun on tech!
-- **Facebook Developer Circle facilitator** for Ahmednagar (a small extended community of FB DevC: Pune)
-- **NVIDIA Jetson Nano** was gifted from Hackster.io for an Idea submitted during an NVIDIA AI at the Edge challenge on Hackster.io.
-- **Won $35 & $200 gift cards** through a lucky draw for pinging 15 consecutive days from Azure Sphere & AVNET Azure Sphere Dev board was acquired through a giveaway by Element14.
-
 # Key Competencies
 - Hardware & Software Troubleshooting
 - Different OS and Software Installation
 - Using basic CMD/PowerShell and Linux Terminal commands.
 - Drive Data recovery and partition management 
 - Ideation with research and greed to learn more about Technology.
+
+# Community Achievements
+- **Contributing Fb DevC: Pune and Machine Learning** with news, blogs and fun on tech!
+- **Facebook Developer Circle facilitator** for Ahmednagar (a small extended community of FB DevC: Pune)
+- **NVIDIA Jetson Nano** was gifted from Hackster.io for an Idea submitted during an NVIDIA AI at the Edge challenge on Hackster.io.
+- **Won $35 & $200 gift cards** through a lucky draw for pinging 15 consecutive days from Azure Sphere & AVNET Azure Sphere Dev board was acquired through a giveaway by Element14.
 
 # Projects
 [(**Baking some amazing projects, follow me on GitHub to stay alerted!**)](https://github.com/AJV009)
