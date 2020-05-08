@@ -71,15 +71,15 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - Data Maestro 2020 – Predict Star / Galaxy / Neither using a precleaned SDSS DR3 dataset – **Kaggle In-class competition by PICT, Pune** (10th -17th Mar 2020)
 - **Qualified for Zonal round competition** (TechIITians) on ML & AI by Diginique techLabs with Cognizance IIT Roorkee. (28th – 29th Feb 2020)
 - **Machine Learning & Artificial Intelligence workshop** by Diginique TechLabs with Cognizance’20 IIT Roorkee at MIT-WPU Pune (28th – 29th Feb 2020)
-- **Second prize for Project Competition (PHP Sentiment Analysis)** at Government Polytechnic Ahmednagar. (12th Feb 2020)
+- **Second prize for Project Competition** (PHP Sentiment Analysis) at Government Polytechnic Ahmednagar. (12th Feb 2020)
 - **MLH Local Hack Day** sponsored by Microsoft (Won a lot of swags!) (7th Dev 2019)
 - **Artificial Intelligence Workshop** by Ethical Edufabrica Pvt, Ltd. (12th - 13th Oct 2019)
 - **Android App Development** by The Intellect Technologies (25th - 27th Sept 2019)
 - Quiz, Blind Coding & Paper presentation at Coderbyte-2K19 organized by Government Polytechnic Ahmednagar (29th - 30th Jan 2019)
 - **National Level Workshop on Artificial Intelligence** at Indian Institute of Science Education & Research (IISER), Pune (12th Jan 2019)
-- **Paper Presentation on Big Data at Technovision-2K18** organized by Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar (22nd Feb 2018)
+- **Paper Presentation on Big Data** at Technovision-2K18 organized by Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar (22nd Feb 2018)
 - **State Level Workshop on Machine Learning and Big Data (MLBD-2018)** organized by Dr. Vithalrao Vikhe Patil College of Engineering (20th – 21st Feb 2018)
-- **Paper Presentation on Big Data at a State Level Technical Event – Technotsav-2K18** organized by Sau. Sundarbai Manik Adsul Polytechnic (16th Feb 2018)
+- **Paper Presentation on Big Data** at a State Level Technical Event – Technotsav-2K18 organized by Sau. Sundarbai Manik Adsul Polytechnic (16th Feb 2018)
 - **Paper Presentation on Big Data** at Government Polytechnic Ahmednagar (15th Oct 2017)
 
 # Hobbies
