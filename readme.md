@@ -33,7 +33,7 @@
 Started on April 2019 with the help of Google My Business – I help some local business’s for free with websites build with WordPress.com and connected with Google My Business.
 
 ### Skills
-- **Programming** - Confident in using **Python** are any task!
+- **Programming** - Confident in using **Python** for any task!
 - **Other programming Languages** – Android Flutter using Dart and basics of C, C++, HTML, JS, PL/SQL, Android Java, PHP, Go, Julia, R.
 - **Software** – VMware, Miniconda, Spyder, XAMPP, Ngrok, WSL, JetBrains IDEs and many more…
 - **Operating System** – Microsoft Windows, Ubuntu (Just any Linux distro!), Apple MacOS
