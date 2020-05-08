@@ -3,7 +3,7 @@
 ****
 # Personal Details
 - **E-mail:**  jaimonalphons@gmail.com
-- **Phone:** +91 8237842347
+- **Phone:** +91-823-784-2347
 - **DOB:** 12 – Aug - 2001
 - **Online Profiles:**
     - [https://github.com/AJV009](https://github.com/AJV009)
