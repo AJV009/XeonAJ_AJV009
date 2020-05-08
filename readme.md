@@ -6,12 +6,12 @@
 - **Phone:** +91 8237842347
 - **DOB:** 12 – Aug - 2001
 - **Online Profiles:**
-    - https://github.com/AJV009
-    - https://ajv009.github.io
-    - https://in.linkedin.com/in/alphons-jaimon
-    - https://www.hackster.io/alphons-jaimon
-    - https://www.kaggle.com/xeonaj
-    - https://xeonaj.wordpress.com
+    - [https://github.com/AJV009](https://github.com/AJV009)
+    - [https://ajv009.github.io](https://ajv009.github.io)
+    - [https://in.linkedin.com/in/alphons-jaimon](https://in.linkedin.com/in/alphons-jaimon)
+    - [https://www.hackster.io/alphons-jaimon](https://www.hackster.io/alphons-jaimon)
+    - [https://www.kaggle.com/xeonaj](https://www.kaggle.com/xeonaj)
+    - [https://xeonaj.wordpress.com](https://xeonaj.wordpress.com)
 - **Address:** Flat no-4, Sonchafa Paradise, Savedi, Ahmednagar, Maharashtra-414002.
 - **Languages Known:** English, Hindi, Marathi, Malayalam.
     
