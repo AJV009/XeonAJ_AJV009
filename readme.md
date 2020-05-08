@@ -115,8 +115,8 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - **Won $35 & $200 gift cards** through a lucky draw for pinging 15 consecutive days from Azure Sphere & AVNET Azure Sphere Dev board was acquired through a giveaway by Element14.
 
 # Blogs and Publications
-- Big Data, The Emerging Strategy in Data Management (2017)
-- Wrote **articles for college magazine** –
+- **Big Data, The Emerging Strategy in Data Management (2017)**
+- **Wrote articles for college magazine** –
     - **CLI-GUI-VUI**
     - **Cloud Gaming**
     - **Data Security**
