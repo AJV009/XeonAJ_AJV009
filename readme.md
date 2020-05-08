@@ -18,6 +18,20 @@
 # Career Objective
 ### An opportunity to utilize my skills and and take my ablities in computing further. As am just getting started with AI, I expect to join a big community experimenting with AI technologies.
 
+# Skills, Experiences and Certificates
+### Internship at R.B.Tech, Ahmednagar
+3 months training in PHP during 5th semester of Diploma in Computer Technology
+
+### Course completion Certificates
+- DataCamp: Introduction to Python, R and SQL
+- DataCamp: Supervised Learning with Scikit-Learn
+- Nvidia DLI: Getting Started with AI on Jetson Nano
+- Julia Academy: Introduction to Julia and ML
+- App Brewery: Introduction to Flutter Development using Dart
+
+### Founder a non-profit company - XeonAJ (Computer Consultant)
+Started on April 2019 with the help of Google My Business – I help some local business’s for free with websites build with WordPress.com and connected with Google My Business.
+
 # Education
 **Mount Saint Mary’s (MSM), Delhi**, Pre-Primary – 3rd grade
 
@@ -29,20 +43,6 @@
 - All clear 3rd semester (2018) with 63.04%
 - All clear 4th semester (2019) with 64.00%
 - Currently doing Third Year (6th semester) Diploma in Computer Technology
-
-# Experience and Certificates
-### Running a non-profit company - XeonAJ (Computer Consultant)
-Started on April 2019 with the help of Google My Business – I help some local business’s for free with websites build with WordPress.com and connected with Google My Business.
-
-### Internship at R.B.Tech, Ahmednagar
-3 months training in PHP during 5th semester of Diploma in Computer Technology
-
-### Course completion Certificates
-- DataCamp: Introduction to Python, R and SQL
-- DataCamp: Supervised Learning with Scikit-Learn
-- Nvidia DLI: Getting Started with AI on Jetson Nano
-- Julia Academy: Introduction to Julia and ML
-- App Brewery: Introduction to Flutter Development using Dart
 
 # Hobbies
 - Exploring more about Computer
