@@ -116,15 +116,15 @@ Started on April 2019 with the help of Google My Business – I help some local 
 
 # Blogs and Publications
 - Big Data, The Emerging Strategy in Data Management (2017)
-- Wrote articles for **college magazine**–
+- Wrote **articles for college magazine** –
     - **CLI-GUI-VUI**
     - **Cloud Gaming**
-    - Data Security
-    - Differentiate AI, ML & DL
-    - Photon Computing
-    - Quantum Computing
-    - Quantum Neural Network
-    - The CPU wars
-    - The evolution of mankind v2.0
-    - The era of RTX graphics
-- A Blog on solving errors with Azure Sphere setup and regulator crash (Element14) and many small ones in Element14. [My Element14 Blog Posts](https://www.element14.com/community/content?filterID=contentstatus%5Bpublished%5D~language~language%5Bcpl%5D&filterID=contentstatus%5Bpublished%5D~objecttype~objecttype%5Bblogpost%5D)
+    - **Data Security**
+    - **Differentiate AI, ML & DL**
+    - **Photon Computing**
+    - **Quantum Computing**
+    - **Quantum Neural Network**
+    - **The CPU wars**
+    - **The evolution of mankind v2.0**
+    - **The era of RTX graphics**
+- A Blog on solving errors with Azure Sphere setup and regulator crash (Element14) and many small ones in Element14. [**My Element14 Blog Posts**](https://www.element14.com/community/content?filterID=contentstatus%5Bpublished%5D~language~language%5Bcpl%5D&filterID=contentstatus%5Bpublished%5D~objecttype~objecttype%5Bblogpost%5D)
