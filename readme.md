@@ -85,28 +85,20 @@ Started on April 2019 with the help of Google My Business – I help some local 
 # Hobbies
 - Exploring more about Computer
 - Learning about new technologies
-- Speed Cubing
-- Creative Crafts
-- Cycling
-- Music
-- Playing Badminton
+- Speed Cubing, Creative Crafts, Music
+- Cycling, Playing Badminton
 
 # Personal Skills
-- Creativity / Ideation
-- Exploratory
+- Creativity / Ideation, Exploratory
 - Handling Work Pressure
 - Fluent in verbal skills
-- Strong work ethic
-- Initiative
+- Strong work ethic, Initiative, Self-Motivation
 - Stamina
-- Self-Motivation
 
 # Key Competencies
 - Hardware & Software Troubleshooting
-- Different OS and Software Installation
-- Using basic CMD/PowerShell and Linux Terminal commands.
 - Drive Data recovery and partition management 
-- Ideation with research and greed to learn more about Technology.
+- Ideation with research and greed to learn more and more about Technology.
 
 # Community Achievements
 - **Contributing Fb DevC: Pune and Machine Learning** with news, blogs and fun on tech!
