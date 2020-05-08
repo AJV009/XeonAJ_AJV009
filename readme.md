@@ -18,7 +18,7 @@
 # Career Objective
 ### An opportunity to utilize my skills and and take my ablities in computing further. As am just getting started with AI, I expect to join a big community experimenting with AI technologies.
 
-# Skills, Experiences and Certificates
+# Experiences, Certificates and Skills
 ### Internship at R.B.Tech, Ahmednagar
 3 months training in PHP during 5th semester of Diploma in Computer Technology
 
@@ -31,6 +31,15 @@
 
 ### Founder of a non-profit company - XeonAJ (Computer Consultant)
 Started on April 2019 with the help of Google My Business – I help some local business’s for free with websites build with WordPress.com and connected with Google My Business.
+
+### Skills
+- **Programming** - Confident in using **Python** are any task!
+- **Other programming Languages** – Android Flutter using Dart and basics of C, C++, HTML, JS, PL/SQL, Android Java, PHP, Go, Julia, R.
+- **Software** – VMware, Miniconda, Spyder, XAMPP, Ngrok, WSL, JetBrains IDEs and many more…
+- **Operating System** – Microsoft Windows, Ubuntu (Just any Linux distro!), Apple MacOS
+- **IoT** – NVIDIA Jetson Nano, Raspberry Pi 3 B+, AVNET Azure Sphere MT3620 Starter Kit
+- **Cloud & IT Services** – AWS, Azure, WordPress, GitHub, Dynu.com, No-IP
+- **Python Libraries** - Scikit-Learn, Pandas, Matplotlib and basics of using Fastai, TensorFlow, PyTorch and Prohpet.
 
 # Education
 **Mount Saint Mary’s (MSM), Delhi**, Pre-Primary – 3rd grade
@@ -62,14 +71,6 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - Initiative
 - Stamina
 - Self-Motivation
-
-# Tech Skills
-- **Programming Languages** – Android Flutter using Dart, Python and basics** of C, C++, HTML, JS, PL/SQL, Android Java, PHP, Go, Julia, R.
-- **Software** – VMware, Miniconda, Spyder, XAMPP, Ngrok, WSL, JetBrains IDEs and many more…
-- **Operating System** – Microsoft Windows, Ubuntu (Just any Linux distro!), Apple MacOS
-- **IoT** – NVIDIA Jetson Nano, Raspberry Pi 3 B+, AVNET Azure Sphere MT3620 Starter Kit
-- **Cloud & IT Services** – AWS, Azure, WordPress, GitHub, Dynu.com, No-IP
-- **Python Libraries** - Scikit-Learn, Pandas, Matplotlib and basics of using Fastai, TensorFlow, PyTorch and Prohpet.
 
 # Community Achievements
 - **Contributing Fb DevC: Pune and Machine Learning** with news, blogs and fun on tech!
