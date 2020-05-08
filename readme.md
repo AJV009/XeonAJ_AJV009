@@ -65,7 +65,7 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - **Website (wowos.ddns.net)** XAMPP, Bitnami WordPress Stack, OpenSSL, Ngrok & Dynu (2017)
 
 # Other certificates and activities
-- One Week Online Faculty Development Program on Python 3 Organized by HSBPVT's Parikrama Group of Institutions, Kashti with Spoken Tutorial, IIT Bombay (29th April - 4nd May 2020)
+- One Week Online Faculty Development Program on Python 3 Organized by **HSBPVT's Parikrama Group of Institutions, Kashti with Spoken Tutorial, IIT Bombay** (29th April - 4nd May 2020)
 - Data Quest 2020 - Predict Energy consumption - Kaggle In-class competition by PASC, (1st - 2nd May 2020)
 - Cisco NetAcad - ISTE National Level CODATHON-2020 (Python - Level 0 & 1 cleared) (Apr 2020)
 - Data Maestro 2020 – Predict Star / Galaxy / Neither using a precleaned SDSS DR3 dataset – Kaggle In-class competition by PICT, Pune (10th -17th Mar 2020)
