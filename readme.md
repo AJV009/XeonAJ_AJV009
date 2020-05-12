@@ -20,7 +20,7 @@
 
 # Experiences, Certificates and Skills
 ### Internship at R.B.Tech, Ahmednagar
-3 months training in PHP during 5th semester of Diploma in Computer Technology
+3 months training in PHP during 5th semester of Diploma in Computer Technology (Forced from College!)
 
 ### Course completion Certificates
 - DataCamp: Introduction to Python, R and SQL
@@ -29,7 +29,7 @@
 - Julia Academy: Introduction to Julia and ML
 - App Brewery: Introduction to Flutter Development using Dart
 
-### Founder of a non-profit company - XeonAJ (Computer Consultant)
+### Founder of a non-profit company - [XeonAJ](https://www.google.com/search?q=xeonaj) (Computer Consultant)
 Started on April 2019 with the help of Google My Business – I help some local business’s for free with websites build with WordPress.com and connected with Google My Business.
 
 ### Skills
