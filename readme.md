@@ -121,5 +121,5 @@ Started on April 2019 with the help of Google My Business – I help some local 
     - **The era of RTX graphics**
 - A Blog on solving errors with Azure Sphere setup and regulator crash (Element14) and many small ones in Element14. [**My Element14 Blog Posts**](https://www.element14.com/community/content?filterID=contentstatus%5Bpublished%5D~language~language%5Bcpl%5D&filterID=contentstatus%5Bpublished%5D~objecttype~objecttype%5Bblogpost%5D)
 
-# Personality Test - INFJ-A / INFJ-T
+# Myers-Briggs Personality Test - INFJ-A / INFJ-T
 "The Advocate personality type is very rare, making up less than one percent of the population, but they nonetheless leave their mark on the world. Advocates have an inborn sense of idealism and morality, but what sets them apart is that they are not idle dreamers. These individuals are capable of taking concrete steps to realize their goals and make a lasting positive impact."
