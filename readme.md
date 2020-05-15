@@ -66,6 +66,7 @@ Started on April 2019 with the help of Google My Business – I help some local 
 - **Website (wowos.ddns.net)** XAMPP, Bitnami WordPress Stack, OpenSSL, Ngrok & Dynu (2017)
 
 # Other certificates and activities
+- One Week **Online Faculty Development Program** on Research Methodology and Tools Organized by Sandip Institute of Technology and Research Centre, Nashik (11th May to 15th May 2020)
 - One Week **Online Faculty Development Program** on Linux Organized by Sinhgad Academy of Engineering, Kondhwa(bk) with Spoken Tutorial, IIT Bombay (29th April - 4nd May 2020)
 - One Week **Online Faculty Development Program** on Python 3 Organized by HSBPVT's Parikrama Group of Institutions, Kashti with Spoken Tutorial, IIT Bombay (29th April - 4nd May 2020)
 - Data Quest 2020 - Predict Energy consumption - **Kaggle In-class competition by PASC**, (1st - 2nd May 2020)
