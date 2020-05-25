@@ -32,13 +32,13 @@ My job was basically about finding errors/issues and vulnabrities in websites an
 - Julia Academy: Introduction to Julia and ML
 - App Brewery: Introduction to Flutter Development using Dart
 
-### Founder of a non-profit company - [XeonAJ](https://www.google.com/search?q=xeonaj) (Computer Consultant)
+### Founder of [XeonAJ](https://www.google.com/search?q=xeonaj) (Computer Consultantancy)
 Started on April 2019 -
 1. Helping local business’s for free with websites build with WordPress.com and connected with Google My Business.
-2. Collaborate with other local companies for web testing and launching.
+2. Collaborate with other local companies and startups for web testing and quick launching.
 3. 
 
-### Founder of a non-profit organization - [Xplut](https://www.google.com/search?q=Xplut)
+### Founder of a [Xplut](https://www.google.com/search?q=Xplut) (teaching)
 Started on May 2021 - Aimed to collaborate with institutes, teachers, geeks and people from IT industries to part there Techy knowledge with the kids of under-prevailaged colleges situated in remote areas.
 
 ### Skills
