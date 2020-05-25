@@ -19,8 +19,11 @@
 ### An opportunity to utilize my skills and and take my ablities in computing further. As am just getting started with AI, I expect to join a big community experimenting with AI technologies.
 
 # Experiences, Certificates and Skills
-### Internship at R.B.Tech, Ahmednagar
+### Internship at R.B.Tech, Ahmednagar (3 Months in 2019 summer break)
 3 months training in PHP during 5th semester of Diploma in Computer Technology (Forced from College!)
+
+### Chief Security Advisor (CSA), KodeITSolutions, Pune (May 2020 - present)
+My job was basically about finding errors/issues and vulnabrities in websites and apps created in-house. KodeITSolutions is a startup formed by group of PICT, Pune students during 2020 summer break.
 
 ### Course completion Certificates
 - DataCamp: Introduction to Python, R and SQL
@@ -30,7 +33,13 @@
 - App Brewery: Introduction to Flutter Development using Dart
 
 ### Founder of a non-profit company - [XeonAJ](https://www.google.com/search?q=xeonaj) (Computer Consultant)
-Started on April 2019 with the help of Google My Business – I help some local business’s for free with websites build with WordPress.com and connected with Google My Business.
+Started on April 2019 -
+1. Helping local business’s for free with websites build with WordPress.com and connected with Google My Business.
+2. Collaborate with other local companies for web testing and launching.
+3. 
+
+### Founder of a non-profit organization - [Xplut](https://www.google.com/search?q=Xplut)
+Started on May 2021 - Aimed to collaborate with institutes, teachers, geeks and people from IT industries to part there Techy knowledge with the kids of under-prevailaged colleges situated in remote areas.
 
 ### Skills
 - **Programming** - Confident in using **Python** for any task!
