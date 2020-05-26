@@ -23,7 +23,7 @@
 3 months training in PHP during 5th semester of Diploma in Computer Technology (Forced from College!)
 
 ### Chief Security Advisor (CSA), KodeITSolutions, Pune (May 2020 - present)
-My job was basically about finding errors/issues and vulnabrities in websites and apps created in-house. KodeITSolutions is a startup formed by group of PICT, Pune students during 2020 summer break.
+My job is about finding errors/issues and vulnabrities in websites and apps created in-house. KodeITSolutions is a startup formed by a large group of PICT, Pune students during 2020 summer break.
 
 ### Course completion Certificates
 - DataCamp: Introduction to Python, R and SQL
@@ -36,9 +36,6 @@ My job was basically about finding errors/issues and vulnabrities in websites an
 Started on April 2019 -
 1. Helping local business’s for free with websites build with WordPress.com and connected with Google My Business.
 2. Collaborate with other local companies and startups for web testing and quick launching.
-
-### Founder of a [Xplut](https://www.google.com/search?q=Xplut) (teaching)
-Started on May 2021 - Aimed to collaborate with institutes, teachers, geeks and people from IT industries to part there Techy knowledge with the kids of under-prevailaged colleges situated in remote areas.
 
 ### Skills
 - **Programming** - Confident in using **Python** for any task!
