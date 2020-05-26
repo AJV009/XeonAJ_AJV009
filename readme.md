@@ -19,6 +19,11 @@
 ### An opportunity to utilize my skills and and take my ablities in computing further. As am just getting started with AI, I expect to join a big community experimenting with AI technologies.
 
 # Experiences, Certificates and Skills
+### Founder of [XeonAJ](https://www.google.com/search?q=xeonaj) (Computer Consultantancy)
+Started on April 2019 -
+1. Helping local business’s for free with websites build with WordPress.com and connected with Google My Business.
+2. Collaborate with other local companies and startups for web testing and quick launching.
+
 ### Internship at R.B.Tech, Ahmednagar (3 Months in 2019 summer break)
 3 months training in PHP during 5th semester of Diploma in Computer Technology (Forced from College!)
 
@@ -31,11 +36,6 @@ My job is about finding errors/issues and vulnabrities in websites and apps crea
 - Nvidia DLI: Getting Started with AI on Jetson Nano
 - Julia Academy: Introduction to Julia and ML
 - App Brewery: Introduction to Flutter Development using Dart
-
-### Founder of [XeonAJ](https://www.google.com/search?q=xeonaj) (Computer Consultantancy)
-Started on April 2019 -
-1. Helping local business’s for free with websites build with WordPress.com and connected with Google My Business.
-2. Collaborate with other local companies and startups for web testing and quick launching.
 
 ### Skills
 - **Programming** - Confident in using **Python** for any task!
