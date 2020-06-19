@@ -27,8 +27,8 @@ Started on April 2019 -
 ### Internship at R.B.Tech, Ahmednagar (3 Months in 2019 summer break)
 3 months training in PHP during 5th semester of Diploma in Computer Technology (Forced from College!)
 
-### Chief Security Advisor (CSA), KodeITSolutions, Pune (May 2020 - present)
-My job is about finding errors/issues and vulnabrities in websites and apps created in-house. KodeITSolutions is a startup formed by a large group of PICT, Pune students during 2020 summer break.
+### Chief Security Advisor (CSA), Kode IT Solutions, Pune (May 2020 - present)
+My job is about finding errors/issues and vulnerabilities in websites and apps created in-house. KodeITSolutions is a startup formed by a large group of PICT, Pune students during 2020 summer break.
 
 ### Course completion Certificates
 - DataCamp: Introduction to Python, R and SQL
