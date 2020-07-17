@@ -11,7 +11,6 @@
     - [https://in.linkedin.com/in/alphons-jaimon](https://in.linkedin.com/in/alphons-jaimon)
     - [https://www.hackster.io/alphons-jaimon](https://www.hackster.io/alphons-jaimon)
     - [https://www.kaggle.com/xeonaj](https://www.kaggle.com/xeonaj)
-    - [https://xeonaj.wordpress.com](https://xeonaj.wordpress.com)
 - **Address:** Flat no-4, Sonchafa Paradise, Savedi, Ahmednagar, Maharashtra-414002.
 - **Languages Known:** English, Hindi, Marathi, Malayalam.
     
@@ -19,30 +18,29 @@
 ### An opportunity to utilize my skills and and take my ablities in computing further. As am just getting started with AI, I expect to join a big community experimenting with AI technologies.
 
 # Experiences, Certificates and Skills
-### Founder of [XeonAJ](https://www.google.com/search?q=xeonaj) (Computer Consultantancy)
-Started on April 2019 -
-1. Helping local business’s for free with websites build with WordPress.com and connected with Google My Business.
-2. Collaborate with other local companies and startups for web testing and quick launching.
+### Running a small IT organization named [XeonAJ](https://www.google.com/search?q=xeonaj) (Computer Consultant) (April  2019)
+Helping out small local business to flourish with the power of Wordpress and Googe My Business
 
-### Internship at R.B.Tech, Ahmednagar (3 Months in 2019 summer break)
-3 months training in PHP during 5th semester of Diploma in Computer Technology (Forced from College!)
+### Internship at Tablabs, Ahmednagar (May - July 2019)
+Developed a PHP based Library Management Project.
 
-### Chief Security Advisor (CSA), Kode IT Solutions, Pune (May 2020 - present)
-My job is about finding errors/issues and vulnerabilities in websites and apps created in-house. KodeITSolutions is a startup formed by a large group of PICT, Pune students during 2020 summer break.
+### Internship at Kode IT Solutions as Security Analyst and Architect, Pune (May -July 2020)
+Finding bugs and security issues in projects and company infrastructure
 
 ### Course completion Certificates
-- DataCamp: Introduction to Python, R and SQL
-- DataCamp: Supervised Learning with Scikit-Learn
+- DataCamp: Introduction to Python, R, SQL and Supervised Learning with Scikit-Learn
+- Kaggle Micro-Courses: 
 - Nvidia DLI: Getting Started with AI on Jetson Nano
 - Julia Academy: Introduction to Julia and ML
 - App Brewery: Introduction to Flutter Development using Dart
 
 ### Skills
-- **Programming** - Confident in using **Python** for any task!
+- **Programming** - Confident in using **Python**!
 - **Other programming Languages** – Android Flutter using Dart and basics of C, C++, HTML, JS, PL/SQL, Android Java, PHP, Go, Julia, R.
+- **Testing/Security** - Burp Suit, CodeQL
 - **Software** – VMware, Miniconda, Spyder, XAMPP, Ngrok, WSL, JetBrains IDEs and many more…
 - **Operating System** – Microsoft Windows, Ubuntu (Just any Linux distro!), Apple MacOS
-- **IoT** – NVIDIA Jetson Nano, Raspberry Pi 3 B+, AVNET Azure Sphere MT3620 Starter Kit
+- **IoT** – NVIDIA Jetson Nano, Raspberry Pi 3 B+, AVNET Azure Sphere MT3620 Starter Kit, Intel Neural Compute Stick 2
 - **Cloud & IT Services** – AWS, Azure, WordPress, GitHub, Dynu.com, No-IP
 - **Python Libraries** - Scikit-Learn, Pandas, Matplotlib and basics of using Fastai, TensorFlow, PyTorch and Prohpet.
 
@@ -60,6 +58,7 @@ My job is about finding errors/issues and vulnerabilities in websites and apps c
 
 # Projects
 [(**Baking some amazing projects, follow me on GitHub to stay alerted!**)](https://github.com/AJV009)
+- [**Witty Walk with Me**](https://github.com/AJV009/Witty_Walk_With_Me) A walking with Wit.ai service to sense negative statements and make calls or send sms using Twilio (2020)
 - [**Meno Mood Hack**](https://github.com/AJV009/meno_mood_hack) A Android app built using Flutter-Dart for Hackster.io Hacking Menopause competition (2020)
 - [**Document Scanner**](https://github.com/gpnagar/Img2txt) A python package simply using Azure Cognitive API for text extraction. (2020)
 - [**MSBTE Results Fetcher**](https://github.com/AJV009/MSBTE_Results_Fetcher) A nifty python tool to fetch and save MSBTE results into a table format. (2020)
@@ -105,6 +104,7 @@ My job is about finding errors/issues and vulnerabilities in websites and apps c
 - Hardware & Software Troubleshooting
 - Drive Data recovery and partition management 
 - Ideation with research and greed to learn more and more about Technology.
+- I can do anything
 
 # Community Achievements
 - **Contributing Fb DevC: Pune and Machine Learning** with news, blogs and fun with tech!
