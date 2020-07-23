@@ -1,7 +1,9 @@
-### "Limitless Ideation - From Innovation, To Development, To Actualization! Learning and building is my hobby!"
 <head>
 <meta name="google-site-verification" content="z3gGSGaSfXTmmb4wLEYTHAe9Z7B5ouoT5cIFiUPURGo" />
 </head>
+
+### "Limitless Ideation - From Innovation, To Development, To Actualization! Learning and building is my hobby!"
+
 ****
 # Personal Details
 - **E-mail:**  jaimonalphons@gmail.com
