@@ -130,3 +130,5 @@ Finding bugs and security issues in projects and company infrastructure
 # Myers-Briggs Personality Test - INFJ-A / INFJ-T
 "The Advocate personality type is very rare, making up less than one percent of the population, but they nonetheless leave their mark on the world. Advocates have an inborn sense of idealism and morality, but what sets them apart is that they are not idle dreamers. These individuals are capable of taking concrete steps to realize their goals and make a lasting positive impact."
 My personality profile - [https://www.16personalities.com/profiles/443dab441e410](https://www.16personalities.com/profiles/443dab441e410)
+
+<meta name="google-site-verification" content="z3gGSGaSfXTmmb4wLEYTHAe9Z7B5ouoT5cIFiUPURGo" />
