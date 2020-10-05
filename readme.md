@@ -19,7 +19,7 @@
 - **Languages Known:** English, Hindi, Marathi, Malayalam.
     
 # Career Objective
-### An opportunity to utilize my skills and and take my ablities in computing further. As am just getting started with AI, I expect to join a big community experimenting with AI technologies.
+## An opportunity to utilize my skills and and take my ablities in computing further. As am just getting started with AI and Security, I expect to join a big community experimenting with a lot of random technologies.
 
 # Experiences, Certificates and Skills
 ### Internship at QED42 (Sept 2020 - present)
@@ -34,14 +34,14 @@ Developed a PHP based Library Management Project.
 ### Running a small IT organization named [XeonAJ](https://www.google.com/search?q=xeonaj) (Computer Consultant) (April  2019)
 Helping out small local business to flourish with the power of Wordpress and Googe My Business
 
-### Course completion Certificates
+## Course completion Certificates
 - DataCamp: Introduction to Python, R, SQL and Supervised Learning with Scikit-Learn
 - Kaggle Micro-Courses: 
 - Nvidia DLI: Getting Started with AI on Jetson Nano
 - Julia Academy: Introduction to Julia and ML
 - App Brewery: Introduction to Flutter Development using Dart
 
-### Skills
+## Skills
 - **Programming** - Confident in using **Python**!
 - **Other programming Languages** – Android Flutter using Dart and basics of C, C++, HTML, JS, PL/SQL, Android Java, PHP, Go, Julia, R.
 - **Testing/Security** - Burp Suit, CodeQL
