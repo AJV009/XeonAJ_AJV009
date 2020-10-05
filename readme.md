@@ -22,14 +22,17 @@
 ### An opportunity to utilize my skills and and take my ablities in computing further. As am just getting started with AI, I expect to join a big community experimenting with AI technologies.
 
 # Experiences, Certificates and Skills
-### Running a small IT organization named [XeonAJ](https://www.google.com/search?q=xeonaj) (Computer Consultant) (April  2019)
-Helping out small local business to flourish with the power of Wordpress and Googe My Business
+### Internship at QED42 (Sept 2020 - present)
+A training period to become a Full Stack Drupal Developer
+
+### Internship at Kode IT Solutions as Security Analyst and Architect, Pune (May - July 2020)
+Finding bugs and security issues in projects and company infrastructure
 
 ### Internship at Tablabs, Ahmednagar (May - July 2019)
 Developed a PHP based Library Management Project.
 
-### Internship at Kode IT Solutions as Security Analyst and Architect, Pune (May -July 2020)
-Finding bugs and security issues in projects and company infrastructure
+### Running a small IT organization named [XeonAJ](https://www.google.com/search?q=xeonaj) (Computer Consultant) (April  2019)
+Helping out small local business to flourish with the power of Wordpress and Googe My Business
 
 ### Course completion Certificates
 - DataCamp: Introduction to Python, R, SQL and Supervised Learning with Scikit-Learn
@@ -74,6 +77,7 @@ Finding bugs and security issues in projects and company infrastructure
 - **Website (wowos.ddns.net)** XAMPP, Bitnami WordPress Stack, OpenSSL, Ngrok & Dynu (2017)
 
 # Other certificates and activities
+- Participation certificate for **Ai.nxt (The Gloabl AI Summit)** an initiative of IncubateIND (13th to 14th August 2020) 
 - One Week **Online Faculty Development Program** on Research Methodology and Tools Organized by Sandip Institute of Technology and Research Centre, Nashik (11th May to 15th May 2020)
 - One Week **Online Faculty Development Program** on Linux Organized by Sinhgad Academy of Engineering, Kondhwa(bk) with Spoken Tutorial, IIT Bombay (29th April - 4nd May 2020)
 - One Week **Online Faculty Development Program** on Python 3 Organized by HSBPVT's Parikrama Group of Institutions, Kashti with Spoken Tutorial, IIT Bombay (29th April - 4nd May 2020)
