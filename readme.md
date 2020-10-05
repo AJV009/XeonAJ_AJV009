@@ -42,7 +42,7 @@ Helping out small local business to flourish with the power of Wordpress and Goo
 - App Brewery: Introduction to Flutter Development using Dart
 
 ## Skills
-- **Programming** - Confident in using **Python**!
+- **Programming** - Confident in using **Python** and **PHP**!
 - **Other programming Languages** – Android Flutter using Dart and basics of C, C++, HTML, JS, PL/SQL, Android Java, PHP, Go, Julia, R.
 - **Testing/Security** - Burp Suit, CodeQL
 - **Software** – VMware, Miniconda, Spyder, XAMPP, Ngrok, WSL, JetBrains IDEs and many more…
