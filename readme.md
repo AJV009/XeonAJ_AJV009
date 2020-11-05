@@ -56,12 +56,16 @@ Helping out small local business to flourish with the power of Wordpress and Goo
 
 **Sacred Heart Convent High School (SHCHS), Ahmednagar, Maharashtra**, 4th – 10th grade, Passed with 75%
 
-**Government Polytechnic Ahmednagar (GP Nagar) Diploma Computer Technology**
-- All clear 1st semester (2017) with 71.86%
-- All clear 2nd semester (2018) with 69.38%
-- All clear 3rd semester (2018) with 63.04%
-- All clear 4th semester (2019) with 64.00%
-- Currently doing Third Year (6th semester) Diploma in Computer Technology
+**Government Polytechnic Ahmednagar (GP Nagar) Diploma Computer Technology - 88%**
+- 1st semester (2017) with 71.86%
+- 2nd semester (2018) with 69.38%
+- 3rd semester (2018) with 63.04%
+- 4th semester (2019) with 64.00%
+- 5th semester (2019) with 85.00%
+- 6th semester (2019) with 92.00%
+- **Total agg percent: 88.00%**
+- **Total Credits Acquired: 191**
+- **Class Awarded For Diploma: FIRST CLASS DIST.**
 
 # Projects
 [(**Baking some amazing projects, follow me on GitHub to stay alerted!**)](https://github.com/AJV009)
