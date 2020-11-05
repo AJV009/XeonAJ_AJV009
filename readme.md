@@ -23,7 +23,7 @@
 
 # Experiences, Certificates and Skills
 ### Internship at QED42 (Sept 2020 - present)
-A training period to become a Full Stack Drupal Developer
+A training program to become a Full Stack Drupal Developer
 
 ### Internship at Kode IT Solutions as Security Analyst and Architect, Pune (May - July 2020)
 Finding bugs and security issues in projects and company infrastructure
