@@ -1,7 +1,3 @@
-<head>
-<meta name="google-site-verification" content="z3gGSGaSfXTmmb4wLEYTHAe9Z7B5ouoT5cIFiUPURGo" />
-</head>
-
 ### "Limitless Ideation - From Innovation, To Development, To Actualization! Learning and building is my hobby!"
 
 ****
@@ -81,6 +77,7 @@ Helping out small local business to flourish with the power of Wordpress and Goo
 - **Website (wowos.ddns.net)** XAMPP, Bitnami WordPress Stack, OpenSSL, Ngrok & Dynu (2017)
 
 # Other certificates and activities
+- Appreciation certificate for organizing a **Learning Weekend** by Progate (17th-19th July 2020)
 - Participation certificate for **Ai.nxt (The Gloabl AI Summit)** an initiative of IncubateIND (13th to 14th August 2020) 
 - One Week **Online Faculty Development Program** on Research Methodology and Tools Organized by Sandip Institute of Technology and Research Centre, Nashik (11th May to 15th May 2020)
 - One Week **Online Faculty Development Program** on Linux Organized by Sinhgad Academy of Engineering, Kondhwa(bk) with Spoken Tutorial, IIT Bombay (29th April - 4nd May 2020)
