@@ -18,7 +18,11 @@
 ## An opportunity to utilize my skills and and take my ablities in computing further. As am just getting started with AI and Security, I expect to join a big community experimenting with a lot of random technologies.
 
 # Experiences, Certificates and Skills
-### Internship at QED42 (Sept 2020 - present)
+
+### Associate Engineer - Full Stack at QED42 (May 2021 - present)
+Full stack Drupal developer. Worked with various Drupal modules, Solr Search API, Google Analytics and more.
+
+### Internship at QED42 (Sept 2020 - April 2021)
 A training program to become a Full Stack Drupal Developer
 
 ### Internship at Kode IT Solutions as Security Analyst and Architect, Pune (May - July 2020)
