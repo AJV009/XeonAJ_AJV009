@@ -85,7 +85,7 @@ Helping out small local business to flourish with the power of Wordpress and Goo
 - **Website (wowos.ddns.net)** XAMPP, Bitnami WordPress Stack, OpenSSL, Ngrok & Dynu (2017)
 
 # Other certificates and activities
-- **Hosted a coomplete hands-on workshop on Intro to Github** for Third Year Diploma Students (30th May 2021)
+- **Hosted a complete hands-on workshop about using Github to collaborate** for Third Year Diploma Students (30th May 2021)
 - Attended a **Python workshop with whole family**, organized by Guvi (25th April 2021)
 - Appreciation certificate for organizing a **Learning Weekend** by Progate (17th-19th July 2020)
 - Participation certificate for **Ai.nxt (The Gloabl AI Summit)** an initiative of IncubateIND (13th to 14th August 2020) 
