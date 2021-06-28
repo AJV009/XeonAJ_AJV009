@@ -34,11 +34,15 @@ Developed a PHP based Library Management Project.
 ### Running a small IT organization named [XeonAJ](https://www.google.com/search?q=xeonaj) (Computer Consultant) (April  2019)
 Helping out small local business to flourish with the power of Wordpress and Googe My Business
 
-## Course completion Certificates
+## Courses completed
+- Drupalize.me: Drupal 8/9 Site Builder and Develooper
 - DataCamp: Introduction to Python, R, SQL and Supervised Learning with Scikit-Learn
-- Kaggle Micro-Courses: 
+- Kaggle Micro-Courses: Python, Intro to ML
 - Nvidia DLI: Getting Started with AI on Jetson Nano
 - Julia Academy: Introduction to Julia and ML
+- Free Code Camp: Responsive Web Design
+- Coursera:  PyTorch Foundations
+- Google Developers: Machine Learning Crash Course
 - App Brewery: Introduction to Flutter Development using Dart
 
 ## Skills
@@ -81,6 +85,8 @@ Helping out small local business to flourish with the power of Wordpress and Goo
 - **Website (wowos.ddns.net)** XAMPP, Bitnami WordPress Stack, OpenSSL, Ngrok & Dynu (2017)
 
 # Other certificates and activities
+- **Hosted a coomplete hands-on workshop on Intro to Github** for Third Year Diploma Students (30th May 2021)
+- Attended a **Python workshop with whole family**, organized by Guvi (25th April 2021)
 - Appreciation certificate for organizing a **Learning Weekend** by Progate (17th-19th July 2020)
 - Participation certificate for **Ai.nxt (The Gloabl AI Summit)** an initiative of IncubateIND (13th to 14th August 2020) 
 - One Week **Online Faculty Development Program** on Research Methodology and Tools Organized by Sandip Institute of Technology and Research Centre, Nashik (11th May to 15th May 2020)
