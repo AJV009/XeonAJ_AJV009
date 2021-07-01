@@ -35,7 +35,8 @@ Developed a PHP based Library Management Project.
 Helping out small local business to flourish with the power of Wordpress and Googe My Business
 
 ## Courses completed
-- Drupalize.me: Drupal 8/9 Site Builder and Develooper
+- Acquia Certified Developer - Drupal 9
+- Drupalize.me: Drupal 8/9 Site Builder and Developer
 - DataCamp: Introduction to Python, R, SQL and Supervised Learning with Scikit-Learn
 - Kaggle Micro-Courses: Python, Intro to ML
 - Nvidia DLI: Getting Started with AI on Jetson Nano
@@ -85,6 +86,7 @@ Helping out small local business to flourish with the power of Wordpress and Goo
 - **Website (wowos.ddns.net)** XAMPP, Bitnami WordPress Stack, OpenSSL, Ngrok & Dynu (2017)
 
 # Other certificates and activities
+- Passed **Acquia Certified Developer - Drupal 9** (29 June 2021) [Certificate link](/assets/certs/Drupal_9.pdf)
 - **Hosted a complete hands-on workshop about using Github to collaborate** for Third Year Diploma Students (30th May 2021)
 - Attended a **Python workshop with whole family**, organized by Guvi (25th April 2021)
 - Appreciation certificate for organizing a **Learning Weekend** by Progate (17th-19th July 2020)
