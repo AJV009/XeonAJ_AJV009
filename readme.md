@@ -86,6 +86,7 @@ Helping out small local business to flourish with the power of Wordpress and Goo
 - **Website (wowos.ddns.net)** XAMPP, Bitnami WordPress Stack, OpenSSL, Ngrok & Dynu (2017)
 
 # Other certificates and activities
+- Attended AWS Online Summit India (29th-30th June 2021)
 - Passed **Acquia Certified Developer - Drupal 9** (29 June 2021) [Certificate link](/assets/certs/Drupal_9.pdf)
 - **Hosted a complete hands-on workshop about using Github to collaborate** for Third Year Diploma Students (30th May 2021)
 - Attended a **Python workshop with whole family**, organized by Guvi (25th April 2021)
