@@ -150,6 +150,6 @@ Helping small local business to flourish with the power of Wordpress and Googe M
     - **The era of RTX graphics**
 - A Blog on solving errors with Azure Sphere setup and regulator crash (Element14) and many small ones in Element14. [**My Element14 Blog Posts**](https://www.element14.com/community/content?filterID=contentstatus%5Bpublished%5D~language~language%5Bcpl%5D&filterID=contentstatus%5Bpublished%5D~objecttype~objecttype%5Bblogpost%5D)
 
-# Myers-Briggs Personality Test - INTJ-T
+# Myers-Briggs Personality Test - *INTJ-T*
 "These personalities can be both the boldest of dreamers and the bitterest of pessimists. Architects believe that, through willpower and intelligence, they can achieve even the most challenging of goals."
 My personality profile - [16personalities profile link](https://www.16personalities.com/profiles/443dab441e410)
