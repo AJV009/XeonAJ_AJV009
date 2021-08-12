@@ -32,7 +32,7 @@ Finding bugs and security issues in projects and company infrastructure
 Developed a PHP based Library Management Project.
 
 ### Running a small IT organization named [XeonAJ](https://www.google.com/search?q=xeonaj) (Computer Consultant) (April  2019)
-Helping out small local business to flourish with the power of Wordpress and Googe My Business
+Helping small local business to flourish with the power of Wordpress and Googe My Business
 
 ## Courses completed
 - Acquia Certified Developer - Drupal 9
@@ -42,7 +42,7 @@ Helping out small local business to flourish with the power of Wordpress and Goo
 - Nvidia DLI: Getting Started with AI on Jetson Nano
 - Julia Academy: Introduction to Julia and ML
 - Free Code Camp: Responsive Web Design
-- Coursera:  PyTorch Foundations
+- Coursera: PyTorch Foundations
 - Google Developers: Machine Learning Crash Course
 - App Brewery: Introduction to Flutter Development using Dart
 
@@ -74,6 +74,7 @@ Helping out small local business to flourish with the power of Wordpress and Goo
 
 # Projects
 [(**Baking some amazing projects, follow me on GitHub to stay alerted!**)](https://github.com/AJV009)
+- [**Daisy**](https://github.com/AJV009/daisy) Daisy is a Slack bot wheich adds emotions based on the message. Powered by OpenAI Beta API.
 - [**Witty Walk with Me**](https://github.com/AJV009/Witty_Walk_With_Me) A walking with Wit.ai service to sense negative statements and make calls or send sms using Twilio (2020)
 - [**Meno Mood Hack**](https://github.com/AJV009/meno_mood_hack) A Android app built using Flutter-Dart for Hackster.io Hacking Menopause competition (2020)
 - [**Document Scanner**](https://github.com/gpnagar/Img2txt) A python package simply using Azure Cognitive API for text extraction. (2020)
@@ -136,7 +137,7 @@ Helping out small local business to flourish with the power of Wordpress and Goo
 
 # Blogs and Publications
 - **Big Data, The Emerging Strategy in Data Management (2017)**
-- **Wrote articles for college magazine** –
+- **Wrote articles for college magazine (2018-19)** –
     - **CLI-GUI-VUI**
     - **Cloud Gaming**
     - **Data Security**
@@ -149,6 +150,6 @@ Helping out small local business to flourish with the power of Wordpress and Goo
     - **The era of RTX graphics**
 - A Blog on solving errors with Azure Sphere setup and regulator crash (Element14) and many small ones in Element14. [**My Element14 Blog Posts**](https://www.element14.com/community/content?filterID=contentstatus%5Bpublished%5D~language~language%5Bcpl%5D&filterID=contentstatus%5Bpublished%5D~objecttype~objecttype%5Bblogpost%5D)
 
-# Myers-Briggs Personality Test - INFJ-A / INFJ-T
-"The Advocate personality type is very rare, making up less than one percent of the population, but they nonetheless leave their mark on the world. Advocates have an inborn sense of idealism and morality, but what sets them apart is that they are not idle dreamers. These individuals are capable of taking concrete steps to realize their goals and make a lasting positive impact."
-My personality profile - [https://www.16personalities.com/profiles/443dab441e410](https://www.16personalities.com/profiles/443dab441e410)
+# Myers-Briggs Personality Test - INTJ-T
+"These personalities can be both the boldest of dreamers and the bitterest of pessimists. Architects believe that, through willpower and intelligence, they can achieve even the most challenging of goals."
+My personality profile - [16personalities profile link](https://www.16personalities.com/profiles/443dab441e410)
