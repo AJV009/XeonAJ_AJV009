@@ -20,7 +20,7 @@
 # Experiences, Certificates and Skills
 
 ### Engineer - Full Stack at QED42 (May 2021 - present)
-Full stack Drupal developer. Worked with various Drupal modules, Solr Search API, Google Analytics and various companies on projects.
+Full stack Drupal developer. Worked with various Drupal modules, Solr Search API, Google Analytics and with various companies for projects.
 
 ### Internship at QED42 (Sept 2020 - April 2021)
 A training program to become a Full Stack Drupal Developer
