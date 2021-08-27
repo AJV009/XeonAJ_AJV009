@@ -74,9 +74,9 @@ Helping small local business to flourish with the power of Wordpress and Googe M
 
 # Projects
 [(**Baking some amazing projects, follow me on GitHub to stay alerted!**)](https://github.com/AJV009)
-- [**Daisy**](https://github.com/AJV009/daisy) Daisy is a Slack bot wheich adds emotions based on the message. Powered by OpenAI Beta API.
-- [**Witty Walk with Me**](https://github.com/AJV009/Witty_Walk_With_Me) A walking with Wit.ai service to sense negative statements and make calls or send sms using Twilio (2020)
-- [**Meno Mood Hack**](https://github.com/AJV009/meno_mood_hack) A Android app built using Flutter-Dart for Hackster.io Hacking Menopause competition (2020)
+- [**Daisy**](https://github.com/AJV009/daisy) Daisy is a Slack bot which adds emotions based on the message. Powered by OpenAI Beta API.
+- [**Witty Walk with Me**](https://github.com/AJV009/Witty_Walk_With_Me) A walking stick with Wit.ai service to sense negative statements and make calls or send sms using Twilio (2020)
+- [**Meno Mood Hack**](https://github.com/AJV009/meno_mood_hack) An Android app built using Flutter-Dart for Hackster.io Hacking Menopause competition (2020)
 - [**Document Scanner**](https://github.com/gpnagar/Img2txt) A python package simply using Azure Cognitive API for text extraction. (2020)
 - [**MSBTE Results Fetcher**](https://github.com/AJV009/MSBTE_Results_Fetcher) A nifty python tool to fetch and save MSBTE results into a table format. (2020)
 - [**PHP Sentiment Analysis**](https://github.com/AJV009/SentimentAnalysis_RubixML) using Rubix/ML library. (2020)
