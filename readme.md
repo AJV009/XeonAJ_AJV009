@@ -15,7 +15,7 @@
 - **Languages Known:** English, Hindi, Marathi, Malayalam.
     
 # Career Objective
-### An opportunity to utilize my skills and advance my ablities in the area of tech in general. I love to explore topics around AI and Security, since there is a sweetspot between them for example a simple pattern recognition in security application UIs can help in classifying genuine users from no-genuine ones or predicting a bad event in advance. 
+### An opportunity to utilize my skills and advance my ablities in the area of tech in general. I love to explore topics around AI and Security, since there is a sweetspot between them for example a simple pattern recognition in application UIs can help in classifying genuine users from non-genuine ones or predicting a bad event in advance. 
 
 # Experiences, Certificates and Skills
 
