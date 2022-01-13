@@ -53,7 +53,7 @@ Helping small local business to flourish with the power of Wordpress and Googe M
 - **Software** – VMware, Miniconda, Spyder, XAMPP, Ngrok, WSL, JetBrains IDEs and many more…
 - **Operating System** – Microsoft Windows, Ubuntu (Just any Linux distro!), Apple MacOS
 - **IoT** – NVIDIA Jetson Nano, Raspberry Pi 3 B+, AVNET Azure Sphere MT3620 Starter Kit, Intel Neural Compute Stick 2
-- **Cloud & IT Services** – AWS, Azure, WordPress, GitHub, Dynu.com, No-IP
+- **Cloud & IT Services** – AWS, Azure, Linode, WordPress, GitHub, Dynu.com, No-IP
 - **Python Libraries** - Scikit-Learn, Pandas, Matplotlib and basics of using Fastai, TensorFlow, PyTorch and Prohpet.
 
 # Education
@@ -74,19 +74,37 @@ Helping small local business to flourish with the power of Wordpress and Googe M
 
 # Projects
 [(**Baking some amazing projects, follow me on GitHub to stay alerted!**)](https://github.com/AJV009)
+- [**PyChat**](https://github.com/AJV009/py-chat) A simple chat application written in Python Scokets.
+- [**Recipe Finder**](https://github.com/AJV009/recipe-finder) Recipe finder using ingrediants using RapidAPI
+- [**Muitiplayer Jump**](https://github.com/AJV009/multiplayer-jump) A multiplayer jump game made with Kaboom.js and Twilio Sync.
+- [**Reddit Memer**](https://github.com/AJV009/RedditMemer) A Reddit chrome extension that fetches memes from Reddit and displays them in the extension canvas.
+- [**Adopt Me**](https://github.com/AJV009/adopt-me) A sample Pet Adoption app built in ReactJS.
 - [**Daisy**](https://github.com/AJV009/daisy) Daisy is a Slack bot which adds emotions based on the message. Powered by OpenAI Beta API.
 - [**Witty Walk with Me**](https://github.com/AJV009/Witty_Walk_With_Me) A walking stick with Wit.ai service to sense negative statements and make calls or send sms using Twilio (2020)
 - [**Meno Mood Hack**](https://github.com/AJV009/meno_mood_hack) An Android app built using Flutter-Dart for Hackster.io Hacking Menopause competition (2020)
 - [**Document Scanner**](https://github.com/gpnagar/Img2txt) A python package simply using Azure Cognitive API for text extraction. (2020)
 - [**MSBTE Results Fetcher**](https://github.com/AJV009/MSBTE_Results_Fetcher) A nifty python tool to fetch and save MSBTE results into a table format. (2020)
 - [**PHP Sentiment Analysis**](https://github.com/AJV009/SentimentAnalysis_RubixML) using Rubix/ML library. (2020)
-- [**Face Emotion detection**](https://github.com/AJV009/mood_detector) – Uses Azure Cognitive services – Face API. (2019)
-- [**Library Management System**](https://github.com/AJV009/Library_Management) – A PHP project (2019)
+- [**Face Emotion detection**](https://github.com/AJV009/mood_detector) Uses Azure Cognitive services – Face API. (2019)
+- [**Library Management System**](https://github.com/AJV009/Library_Management) A PHP project (2019)
 - **ΞDevNetHost** – A simple app for port forwarding & hosting, Uses XAMPP, Ngrok & VB.net (2018)
 - **µPy** – Program for juniors created in VB.net. Includes an online Python IDE and tutorials. (2018)
 - **Website (wowos.ddns.net)** XAMPP, Bitnami WordPress Stack, OpenSSL, Ngrok & Dynu (2017)
 
+## Micro Projects
+- [**Caesar Cipher**](https://github.com/AJV009/caesar-cipher) Caeser Cipher with cracker in Python
+- [**ESPN Scrap**](https://github.com/AJV009/espn-scrap) Scraping football player data from ESPN site
+- [**DeepGram Assignment**](https://github.com/AJV009/deepgram-assignment) Deepgram sample code for STT
+- [**Tic-Tac-toe**](https://github.com/AJV009/tic-tac-toe) A simple tic-tac-toe game in JS.
+- [**SlackML**](https://github.com/AJV009/SlackML) ML experiments on Slack data, like predicting user leaves for more accurate and flexible project allocation.
+- [**ajv009.github.io**](https://github.com/AJV009/ajv009.github.io) This site.
+- [**Beautiful OSS**](https://github.com/AJV009/beautiful_oss) A simple dynamic PHP blogging site.
+- [**PySudoku**](https://github.com/AJV009/PySudoku) Sudoku sovler in Python
+- [**2D Vanilla Breakout**](https://github.com/AJV009/2d-vanilla-breakout) A pure JS breakout game.
+- [**Simple NLTK**](https://github.com/AJV009/simple_nltk) Simplest example of NLTK library for sentiment analysis.
+
 # Other certificates and activities
+- **MLH Local Hack Day**, developed lot of mini projects, attended a ton of sessions, learned 5-6 new technologies, bagged a lot of swags, played many games (9th - 17th Jan 2022)
 - Attended AWS Online Summit India (29th-30th June 2021)
 - Passed **Acquia Certified Developer - Drupal 9** (29 June 2021) [Certificate link](/assets/certs/Drupal_9.pdf)
 - **Hosted a complete hands-on workshop about using Github to collaborate** for Third Year Diploma Students (30th May 2021)
@@ -102,7 +120,7 @@ Helping small local business to flourish with the power of Wordpress and Googe M
 - **Qualified for Zonal round competition** (TechIITians) on ML & AI by Diginique techLabs with Cognizance IIT Roorkee. (28th – 29th Feb 2020)
 - **Machine Learning & Artificial Intelligence workshop** by Diginique TechLabs with Cognizance’20 IIT Roorkee at MIT-WPU Pune (28th – 29th Feb 2020)
 - **Second prize for Project Competition** (PHP Sentiment Analysis) at Government Polytechnic Ahmednagar. (12th Feb 2020)
-- **MLH Local Hack Day** sponsored by Microsoft (Won a lot of swags!) (7th Dev 2019)
+- **MLH Local Hack Day** sponsored by GitHub and Microsoft (Won a lot of swags!) (7th Dev 2019)
 - **Artificial Intelligence Workshop** by Ethical Edufabrica Pvt, Ltd. (12th - 13th Oct 2019)
 - **Android App Development** by The Intellect Technologies (25th - 27th Sept 2019)
 - Quiz, Blind Coding & Paper presentation at Coderbyte-2K19 organized by Government Polytechnic Ahmednagar (29th - 30th Jan 2019)
