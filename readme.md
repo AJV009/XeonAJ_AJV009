@@ -6,11 +6,12 @@
 - **Phone:** +91-823-784-2347
 - **DOB:** 12 – Aug - 2001
 - **Online Profiles:**
-    - [https://github.com/AJV009](https://github.com/AJV009)
-    - [https://ajv009.github.io](https://ajv009.github.io)
-    - [https://in.linkedin.com/in/alphons-jaimon](https://in.linkedin.com/in/alphons-jaimon)
-    - [https://www.hackster.io/alphons-jaimon](https://www.hackster.io/alphons-jaimon)
-    - [https://www.kaggle.com/xeonaj](https://www.kaggle.com/xeonaj)
+    - [github.com/AJV009](https://github.com/AJV009)
+    - [ajv009.github.io](https://ajv009.github.io)
+    - [in.linkedin.com/in/alphons-jaimon](https://in.linkedin.com/in/alphons-jaimon)
+    - [www.hackster.io/alphons-jaimon](https://www.hackster.io/alphons-jaimon)
+    - [www.kaggle.com/xeonaj](https://www.kaggle.com/xeonaj)
+    - [twitter.com/alphons009](https://twitter.com/alphons009)
 - **Address:** Flat no-4, Sonchafa Paradise, Savedi, Ahmednagar, Maharashtra-414002.
 - **Languages Known:** English, Hindi, Marathi, Malayalam.
     
