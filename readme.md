@@ -16,15 +16,15 @@
 - **Languages Known:** English, Hindi, Marathi, Malayalam.
     
 # Career Objective
-### An opportunity to utilize my skills and advance my ablities in the area of tech in general. I love to explore topics around BioTech, AI, Quantum Computing and Security, since there is a sweetspot between them - Consciousness clonning/transfer. 
+### An opportunity to utilize my skills and advance my abilities in the area of tech in general. I love to explore topics around BioTech, AI, Quantum Computing and Security, since there is a sweetspot between them - Consciousness cloning/transfer. 
 
 # Experiences, Certificates and Skills
 
-### Engineer - Full Stack at QED42 (May 2023 - present)
-Full stack Engineer. Exploring areas beyond Drupal. Developing POCs and MVPs for clients. (AI Enhanced Experiences)
+### AI Engineer at QED42 (May 2023 - present)
+AI Engineer. Augmenting AI into existing applications. Developing POCs and MVPs for clients. (AI Enhanced Experiences)
 
 ### Associate Engineer - Full Stack at QED42 (May 2021 - May 2023)
-Full stack Drupal developer. Worked with various contrib ans custom Drupal modules and with various companies for projects. (Multisite, Multilingual, Decoupled)
+Full stack Drupal developer. Worked with various contrib and custom Drupal modules and with various companies for projects. (Multisite, Multilingual, Decoupled)
 
 ### Internship at QED42 (Sept 2020 - April 2021)
 A training program to become a Full Stack Drupal Developer
@@ -147,7 +147,7 @@ Helping small local business to flourish with the power of Wordpress and Googe M
 
 # Personal Hobbies, Skills and Competencies
 ### Hobbies
-- Exploring more about Computer, learning about new technologies.
+- Exploring more about computers, learning about new technologies.
 - Speed Cubing, Creative Crafts, Music, Chess, Reading, Travelling
 - Cycling, Playing Badminton, Swimming
 
@@ -157,7 +157,7 @@ Helping small local business to flourish with the power of Wordpress and Googe M
 - Strong work ethic, Initiative, Self-Motivation, Stamina, Stress Management
 
 ### Key Competencies
-- Hardware & Software Troubleshooting, Experience playing with all kinds of Operating Systems
+- Hardware and software Troubleshooting, Experience playing with all kinds of Operating Systems
 - Drive Data recovery and partition management 
 - Ideation with research and greed to learn more and more about Technology.
 - I can do pretty much anything
@@ -186,3 +186,5 @@ Helping small local business to flourish with the power of Wordpress and Googe M
 # Myers-Briggs Personality Test - *INTP-T*
 "A Logician (INTP) is someone with the Introverted, Intuitive, Thinking, and Prospecting personality traits. These flexible thinkers enjoy taking an unconventional approach to many aspects of life. They often seek out unlikely paths, mixing willingness to experiment with personal creativity."
 My personality profile - [16personalities profile link](https://www.16personalities.com/profiles/443dab441e410)
+
+_NOTE: I rarely update this site... So the information might be different/expired than what's on LinkedIn or GitHub_
